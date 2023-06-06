@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wajihtl" alt="wajihtl" /></a> </p>
 
+- 🔭 I’m currently working with [Cynoia](https://github.com/Cynoia-SARL)
+
+- 🌱 I’m currently building **Silverhand academy platform**
+
 - 📫 How to reach me **waajih.tlili@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
