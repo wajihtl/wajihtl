@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with [Cynoia](https://github.com/Cynoia-SARL)
 
-- 🌱 I’m currently building **Silverhand academy platform**
+- 🌱 Into the devOps world!
 
 - 📫 How to reach me **waajih.tlili@gmail.com**
 
